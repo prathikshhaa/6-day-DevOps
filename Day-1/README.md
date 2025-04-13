@@ -24,7 +24,8 @@ Accessed Jenkins UI on http://localhost:8080 and confirmed installation.
 <pre><code> docker run hello-world </code></pre>
 ># Run Jenkins using specific Java version (without changing system Java) 
 <pre><code"C:\Path\To\Java17\bin\java.exe" -jar jenkins.war </code></pre>
-🧠 Key Learnings
+🧠 Key Learnings:
+
 WSL plays a crucial role in Docker on Windows.
 
 Multiple Java versions can coexist and be used selectively.
