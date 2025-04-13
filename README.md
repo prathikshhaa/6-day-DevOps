@@ -1,5 +1,7 @@
 ✅ What I Learned – Docker & Jenkins Setup
+
 🔧 Docker:
+
 Explored Docker installation on Windows.
 
 Learned about WSL (Windows Subsystem for Linux) and how it interacts with Docker Desktop.
