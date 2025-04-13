@@ -34,7 +34,8 @@ Verified setup using public IPs and tested the load balancer behavior.
 🌐 Testing:
 <pre><code># Open in browser: http://<load-balancer-dns-name> # Refresh to verify load balancing between instances </code></pre>
 
-Summary
+🧠 Key Learnings:
+
 On Day 2, I explored key concepts of AWS and web server deployment. I connected to EC2 instances using PuTTY, installed and configured Apache web server, and modified the default index page to identify individual instances.
 
 I also learned how to set up a Load Balancer in AWS, create a Target Group, and register EC2 instances to distribute incoming traffic. Using the load balancer's DNS name, I successfully tested round-robin traffic between the instances. This helped me understand real-world deployment strategies and high availability architecture.
