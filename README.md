@@ -35,3 +35,5 @@ Running Jenkins using a specific Java version without changing system defaults
 
 (bash) C:\Path\To\Java17\bin\java.exe -jar jenkins.war
 
+✨ Key Takeaways:
+Developed the ability to troubleshoot system-level issues, manage multiple Java versions effectively, and deploy lightweight services like Jenkins and Docker with control and flexibility.
