@@ -41,7 +41,7 @@ Ensured that the web pages were being served correctly and that the application 
 # 📁 Folder Structure:
 Here’s the typical folder structure I followed for the Maven project:
 
-
+```plaintext
 maven-web-application/
   ├── src/
   │   ├── main/
@@ -56,7 +56,7 @@ maven-web-application/
   │   │       │   └── ...
   │   │       └── index.jsp           # JSP file for the homepage
   ├── pom.xml                         # Maven build configuration file
-  
+  ```
 # 📦 Key Technologies Used:
 
 Maven: For building, managing dependencies, and packaging the project.
