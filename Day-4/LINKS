@@ -1,8 +1,21 @@
-http://34.227.113.247:3002/ 
+Kubernetes Tasks
+
+URLs for Access
+Task 1 URL:
+
+http://34.227.113.247:3002/
+
+Task 2 URL:
+
 http://34.227.113.247:3015/
+
+GitHub Repository (K8s Manifests):
 
 https://github.com/prathikshhaa/Prathiksha-k8s-manifests.git
 
+AWS Application URL:
+
 http://a54c0ad249bd44602aabd7443fc9cb7d-577877695.us-east-1.elb.amazonaws.com:3130/
 
-NOTE: Since we're using Sir's AWS account, I'm not able to share the screenshots.
+Note on Screenshots
+Since we are using Sir's AWS account, I am unable to share any screenshots from the tasks as all the instances are Terminated. 
