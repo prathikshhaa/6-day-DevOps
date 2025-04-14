@@ -42,14 +42,14 @@ kubectl get services
 <pre><code>kubectl logs mypod</code></pre>
 
 # 📁 Folder Structure Sample
-
+```plaintext
 k8s/
   ├── deployment.yaml        # Kubernetes Deployment YAML file
   ├── service.yaml           # Service configuration for exposing the application
   ├── configmap.yaml         # ConfigMap to manage non-sensitive configurations
   ├── secret.yaml            # Secret configuration for sensitive information
   ├── kubernetes.tf          # Infrastructure as Code file for managing Kubernetes setup
-  
+  ```
 # 📄 Sample deployment.yaml
 
 apiVersion: apps/v1
